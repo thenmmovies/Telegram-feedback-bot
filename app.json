@@ -15,7 +15,7 @@
             "description": "Telegram bot token get it from  @BotFather",
             "required": true
         },
-        "API_ID": {
+        "APP_ID": {
             "description": "API_ID of your Telegram Account my.telegram.org/apps",
             "required": true
         },
