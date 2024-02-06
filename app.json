@@ -1,7 +1,7 @@
 {
     "name": "Telegram Feedback Bot",
     "description": "Simple Feedback bot for Telegram",
-    "repository": "https://github.com/Sithijatd/Telegram-feedback-bot",
+    "repository": "https://github.com/thenmmovies/Telegram-feedback-bot",
     "logo": "https://telegra.ph/file/4f211c40e9e0e06aea236.jpg",
     "keywords": [
     "python3",
